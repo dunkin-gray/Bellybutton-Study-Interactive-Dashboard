@@ -9,3 +9,5 @@ For this challenge, I used Plotly's JavaScript graphing library and the D3 JavaS
 **static / js**
 
 • contains my app.js file used to create each graph and add interactivity to the page.
+
+![Screenshot 2021-08-10 200559](https://user-images.githubusercontent.com/78669271/128963318-7641783f-0cf7-4139-8f2a-0260e0916967.png)
